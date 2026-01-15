@@ -1,0 +1,5 @@
+{
+  "name": "划线排班",
+  "description": "A mobile-first interactive staff scheduling application with drag-to-select and batch editing capabilities, mimicking the provided reference UI.",
+  "requestFramePermissions": []
+}
